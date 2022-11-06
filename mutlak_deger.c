@@ -1,5 +1,5 @@
 #include <stdio.h>
-// klavyeden girilen tam sayının mutlak değerini bul
+// klavyeden girilen tam sayının mutlak değerini bulur
 
 int main() 
 
