@@ -1,0 +1,1 @@
+# Mutlak_Deger_Bul
